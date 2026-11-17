@@ -1,2 +1,0 @@
-timestamp,event,details
-2026-11-15T01:47:54+08:00,SERIAL_ERROR,"could not open port 'COM5': PermissionError(13, 'Access is denied.', None, 5)"
